@@ -4,8 +4,9 @@
 #!@Author   :Lening Wu
 #!@File     c1.py
 
-print("hello1213")
-print("jahdjahdjahd")
-print("hjdjshdjkshdkja")
-print("testgithub")
-print("12234")
+print("hello world")
+print("hello again")
+print("I like typing this")
+print("this is fun")
+print("yay! practice")
+print("thank you!")
